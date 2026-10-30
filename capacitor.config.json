@@ -1,0 +1,6 @@
+{
+  "appId": "com.smartstore.billing",
+  "appName": "Smart Store Billing",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
